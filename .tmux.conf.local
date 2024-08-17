@@ -429,3 +429,5 @@ tmux_conf_uninstall_plugins_on_reload=true
 #
 # "$@"
 # # /!\ do not remove the previous line
+setw -g mode-keys vi
+set-option -g default-shell /usr/bin/fish
